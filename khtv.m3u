@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TV5Cambodia.kh" group-title="Cambodia",TV5 Cambodia
+https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8
+
+#EXTINF:-1 tvg-id="CTV8HD.kh" group-title="Cambodia",CTV 8 HD
+https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8
+
+#EXTINF:-1 tvg-id="TownTV.kh" group-title="Cambodia",Town Full HD TV
+https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
+
+#EXTINF:-1 tvg-id="NTV.kh" group-title="Cambodia",NTV Cambodia Full HD
+https://ip.pdtvhd.com/LiveApp/streams/Ntvfullhd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" group-title="Sports",CCTV-5+ Sports
+https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+
+#EXTINF:-1 tvg-id="AnhuiTV.cn" group-title="International",Anhui TV
+https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+
+#EXTINF:-1 tvg-id="DragonTV.cn" group-title="International",Dragon TV International
+https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
